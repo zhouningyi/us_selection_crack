@@ -1,0 +1,25 @@
+{
+  "name": "us_selection_crack",
+  "version": "1.0.0",
+  "description": "希拉里邮件门相关数据处理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouningyi/us_selection_crack.git"
+  },
+  "keywords": [
+    "hillary"
+  ],
+  "author": "zhouningyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhouningyi/us_selection_crack/issues"
+  },
+  "homepage": "https://github.com/zhouningyi/us_selection_crack#readme",
+  "dependencies": {
+    "pg": "^6.1.0"
+  }
+}
