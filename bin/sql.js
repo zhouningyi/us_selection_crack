@@ -30,6 +30,8 @@ AND tb.count > ${groupCount};`
   } else {
     siteAnalyze = ''
   }
+  
+  console.log(siteAnalyze)
 
   return `
 --建立一个专门用来分析的 schema
@@ -39,7 +41,7 @@ CREATE SCHEMA IF NOT EXISTS analysis;
 DROP TABLE IF EXISTS analysis.${allTb};
 CREATE TABLE analysis.${allTb} AS (
   SELECT "from", unnest("to") AS "to", "content" 
-  FROM podestas
+  FROM ${tbname}
 );
 
 --建立email计数表
@@ -70,5 +72,8 @@ ON CONFLICT(email) DO UPDATE
 SET to_count = excluded.to_count;
 
 ${siteAnalyze}
+
+
+
 `
 }

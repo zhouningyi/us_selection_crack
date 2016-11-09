@@ -1,24 +1,37 @@
 const getSQL = require('./sql')
-const pg = require('pg')
-const cfg = [{name: 'podesta', groupCount: 300, groupBySite: 1}, {name: 'dns', groupCount: 431, groupBySite: 1}]
+const Sequelize = require('sequelize')
 
-var client = new pg.Client();
-
-const runjob = () => cfg.forEach((d) => {
-  client.query('SELECT 1', (e, res) => {
-    if(e) console.log(e)
-    print(`任务${d.name} ok...`)
-  })
-  // print(`任务${d.name} start...`)
-  // client.query(getSQL(d), (e, res) => {
-  //   print(`任务${d.name} ok...`)
-  // })
-})
-
-const print = console.log
 let dbcfg = require('./dbconfig1')
-new pg.Pool(dbcfg)
-.connect((e) => {
-  if(e) return console.error('数据库连接有误..');
-  runjob()
+const sequelize =  new Sequelize(dbcfg.database, dbcfg.user, dbcfg.password, {
+  host: dbcfg.host,
+  port: dbcfg.port,
+  maxConcurrentQueries: 100, //最大连接数
+  dialect: 'postgres',
+  pool: {
+    maxConnections: 30,
+    maxIdleTime: 30
+  }
 });
+
+
+const runSQL = (sql, name) => {
+  sequelize.query(sql).then((e, d) => console.log(`${name}执行完毕...`))
+}
+const createTable = (d) => {
+  runSQL(getSQL(d), d.name)
+}
+
+[{
+  name: 'podestas',
+  groupCount: 300,
+  groupBySite: true
+}, {
+  name: 'dncs',
+  groupCount: 431,
+  groupBySite: true
+}, {
+  name: 'hillaries',
+  groupCount: 431,
+  groupBySite: false
+}]
+.forEach(createTable)

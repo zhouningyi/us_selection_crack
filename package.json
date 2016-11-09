@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/zhouningyi/us_selection_crack#readme",
   "dependencies": {
-    "pg": "^6.1.0"
+    "pg": "^6.1.0",
+    "sequelize": "^3.24.8"
   }
 }
