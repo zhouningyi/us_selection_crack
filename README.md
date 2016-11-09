@@ -1,22 +1,16 @@
 # 希拉里邮件门数据
 
-2016年大选，几个黑客竟然改变了美帝的政治命运，由于[维基解密](https://wikileaks.org/)陆续发布的希拉里相关邮件数据，公开大量政治内幕，最终让票数渐减的Trump起死回生。
+2016年大选，黑客改变美帝的政治命运，由于[维基解密](https://wikileaks.org/)陆续发布的希拉里相关邮件数据，公开大量政治内幕，最终让票数渐减的Trump起死回生。
 
 然而解密维基这几天又被墙了，通过代理我爬取了和希拉里相关的三大数据，在这里做共享，有志英语 / 政治/ 数据库 / 数据可视化的同学不容错过:
 
+## [希拉里-csv](http://7i7ifh.com1.z0.glb.clouddn.com/hillary.csv.zip)
 
+## [Podesta-csv 邮件，同步至2016-11-09, 仍在更新](http://7i7ifh.com1.z0.glb.clouddn.com/podesta.csv.zip)
 
-希拉里邮件：<br>
+## [DNC-csv格式](http://7i7ifh.com1.z0.glb.clouddn.com/dnc.csv.zip)
 
-## [csv格式](http://7i7ifh.com1.z0.glb.clouddn.com/hillary.csv.zip)<br>
-
-Podesta邮件，同步至2016-11-09, 仍在更新中:
-## [csv格式](http://7i7ifh.com1.z0.glb.clouddn.com/podesta.csv.zip)<br>
-
-DNC邮件：<br>
-## [csv格式](http://7i7ifh.com1.z0.glb.clouddn.com/dnc.csv.zip)<br>
-
-几份数据的表结构都包含以下字段: 
+以上数据包含以下字段: 
 
 | from | to        | time | content | mailid |
 | :--- | --------- | ---- | ------- | ------ |
