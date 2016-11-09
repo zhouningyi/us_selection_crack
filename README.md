@@ -6,15 +6,16 @@
 
 ### [希拉里邮件](https://wikileaks.org/clinton-emails/)
 
-| 总数     | 本人发送  | 发布时间       | 时间跨度               |      |      |
-| :----- | ----- | ---------- | ------------------ | ---- | ---- |
-| 30322封 | 7570封 | 2016-03-16 | 2010-06 => 2014-08 |      |      |
+| 总数     | 本人发送  | 发布时间       | 时间跨度               |          
+| :----- | ----- | ---------- | ------------------ | 
+| 30322封 | 7570封 | 2016-03-16 | 2010-06 => 2014-08 | 
 #### 概要
 
 #### 相关数据
 [希拉里邮件收集 dump](https://github.com/datahoarder/secretary-clinton-email-dump)
 [希拉里邮件中人名的对应关系](https://github.com/wsjdata/clinton-email-cruncher/blob/master/HRCEMAIL_names.csv)
-
+#### 相关讨论
+[希拉里邮件内容](http://www.jiemian.com/article/240575.html)
 
 ### [Podesta邮件](https://wikileaks.org/podesta-emails/)
 
@@ -32,7 +33,6 @@ Podesta先生还与其兄弟Tony拥有Podesta集团
 
 ![image](./imgs/podesta_graph.jpg)
 
-
 ### [民主党全国委员会（dnc）邮件](https://wikileaks.org/dnc-emails/)
 
 | 总数     | 附件数  | 发布时间       | 时间跨度               |
@@ -43,25 +43,25 @@ Podesta先生还与其兄弟Tony拥有Podesta集团
 DNC （Democratic National Committee ）民主党全国委员会
 
 #### 涉及人物
-通讯总监 Luis Miranda（10770封）
-国家财政总监 Jordon Kaplan（3797封）
-财务总监 Scott Comer（3095封）
-金融数据与战略总监 Daniel Parrish（1472封）
-财务总监 Allen Zachary（1611封）
-高级顾问 Andrew Wright（938封）
-北加州财务总监 Robert（Erik）Stowe（751封）
+通讯总监 Luis Miranda（10770封)<br>
+国家财政总监 Jordon Kaplan（3797封）<br>
+财务总监 Scott Comer（3095封）<br>
+金融数据与战略总监 Daniel Parrish（1472封）<br>
+财务总监 Allen Zachary（1611封）<br>
+高级顾问 Andrew Wright（938封）<br>
+北加州财务总监 Robert（Erik）Stowe（751封）<br>
 
 
 ### 相关讨论
 
-[希拉理竞选部主席Podesta的私信总结 CN](http://www.3456287.com/minghua-2-22798-0.html)
-[知乎讨论帖 CN](https://www.zhihu.com/question/51362588/answer/126195464)
-[希拉里·克林顿电子邮件争议 WIKI CN](https://zh.wikipedia.org/wiki/%E5%B8%8C%E6%8B%89%E9%87%8C%C2%B7%E5%85%8B%E6%9E%97%E9%A1%BF%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E4%BA%89%E8%AE%AE)
+[希拉理竞选部主席Podesta的私信总结 CN](http://www.3456287.com/minghua-2-22798-0.html)<br>
+[知乎讨论帖 CN](https://www.zhihu.com/question/51362588/answer/126195464)<br>
+[希拉里·克林顿电子邮件争议 WIKI CN](https://zh.wikipedia.org/wiki/%E5%B8%8C%E6%8B%89%E9%87%8C%C2%B7%E5%85%8B%E6%9E%97%E9%A1%BF%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E4%BA%89%E8%AE%AE)<br>
 
-[知乎：邮件门最新进展–FBI刺刀上膛 CN](https://www.letscorp.net/archives/111981)
-[希拉里邮件分析 EN](http://www.vaskal.ca/podestafiles)
+[知乎：邮件门最新进展–FBI刺刀上膛 CN](https://www.letscorp.net/archives/111981)<br>
+[希拉里邮件分析 EN](http://www.vaskal.ca/podestafiles)<br>
 
-#### 暗杀事件
+### 暗杀事件
 
 死亡名单:
 
@@ -89,9 +89,7 @@ DNC （Democratic National Committee ）民主党全国委员会
 
 
 
-#### 希拉里邮件片段
-参考如下：
-[希拉里邮件内容](http://www.jiemian.com/article/240575.html)
+### 希拉里邮件片段
 
 　　“收钱”希拉里团队的几乎所有高层讨论是否接受外国政府掮客的政治献金（这是违反联邦竞选法律的）。最后伴随着Jen Palmeri的一句“收钱”，希拉里团队决定接受代表外国政府势力的政治献金。
 
