@@ -6,7 +6,8 @@ module.exports = (o) => {
   const groupCount  = o.groupCount || 300 //通过email的分类给邮件分组 但取决于出现的次数
   let siteAnalyze; 
   if (o.groupBySite){
-    siteAnalyze = `--邮件分类分析
+    siteAnalyze = `
+    --邮件分类分析
 DROP TABLE IF EXISTS analysis.${siteCountTb};
 CREATE TABLE analysis.${siteCountTb} AS (
 SELECT 
@@ -30,8 +31,6 @@ AND tb.count > ${groupCount};`
   } else {
     siteAnalyze = ''
   }
-  
-  console.log(siteAnalyze)
 
   return `
 --建立一个专门用来分析的 schema
@@ -70,10 +69,5 @@ SELECT email, from_count, to_count
 FROM tbs
 ON CONFLICT(email) DO UPDATE
 SET to_count = excluded.to_count;
-
-${siteAnalyze}
-
-
-
-`
+` + siteAnalyze
 }
