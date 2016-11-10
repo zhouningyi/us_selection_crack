@@ -4,11 +4,11 @@
 
 解密维基这几天又被墙了，通过代理我爬取和希拉里相关的三种数据:
 
-## [希拉里-csv](http://7i7ifh.com1.z0.glb.clouddn.com/hillary.csv.zip)
+## [希拉里-csv↓](http://7i7ifh.com1.z0.glb.clouddn.com/hillary.csv.zip)
 
-## [Podesta-csv 2016-11-09, 仍更新](http://7i7ifh.com1.z0.glb.clouddn.com/podesta.csv.zip)
+## [Podesta-csv 2016-11-09, 仍更新↓](http://7i7ifh.com1.z0.glb.clouddn.com/podesta.csv.zip)
 
-## [DNC-csv格式](http://7i7ifh.com1.z0.glb.clouddn.com/dnc.csv.zip)
+## [DNC-csv格式↓](http://7i7ifh.com1.z0.glb.clouddn.com/dnc.csv.zip)
 
 以上数据包含: 
 
@@ -19,6 +19,8 @@
 
 
 
+
+----
 
 
 
@@ -37,6 +39,28 @@
 #### 相关讨论
 [希拉里邮件内容](http://www.jiemian.com/article/240575.html)
 
+### 解读
+
+| 翻译                                       | 关联邮件id | 其他   |
+| :--------------------------------------- | ------ | ---- |
+| “收钱”希拉里团队的几乎所有高层讨论是否接受外国政府掮客的政治献金（这是违反联邦竞选法律的）。最后伴随着Jen Palmeri的一句“收钱”，希拉里团队决定接受代表外国政府势力的政治献金。 |        |      |
+| 希拉里疑似在参加2015年12月的初选辩论之前就拿到主持人将问的所有问题。    |        |      |
+| 希拉里团队讨论私服上邮件的危险性。最后发现希拉里将含有机密信息的邮件提供给了以下人士： Combetta, Pagliano, all of her lawyers, all of Platte River Network maybe a few janitors。 |        |      |
+| 希拉里夫妻反对同性婚姻，表面上的支持只是为了选举的伪装。             |        |      |
+| 希拉里团队担心纽时曝光他们和PAC的会面（违反选举法）。纽时最后理所当然地没有报道这件事。 |        |      |
+| 希拉里团队讨论销毁邮件。                             |        |      |
+| 希拉里厌恶日常美国人                               |        |      |
+|                                          |        |      |
+|                                          |        |      |
+|                                          |        |      |
+
+
+　　
+
+　　
+
+
+
 ### Podesta邮件
 
 | 总数      | 发布时间       | 时间跨度         |
@@ -50,6 +74,21 @@ Podesta是Clintons的长期合伙人
 1998年-2001年任比尔·克林顿的参谋长
 Podesta先生还与其兄弟Tony拥有Podesta集团
 
+#### 相关讨论
+[维基百科 EN](https://en.wikipedia.org/wiki/Podesta_emails)
+
+#### 解读
+| 翻译                                       | 关联邮件id | 其他   |      |
+| :--------------------------------------- | ------ | ---- | ---- |
+| Podesta收到HWJ Foundation（致力于医保改革）支付的顾问报酬。（Conflict of interests）讨论怎么控制左派新闻媒体的言论。 |        |      |      |
+| Podesta跟CTR沟通选战事宜（违反FECA）。               |        |      |      |
+| 赫芬顿邮报记者Brent Budowsky写信给Podesta为自己的文章"The Magic of Bill Clinton"邀功。Podesta的回复只是一个字"Yep"（Brent Budowsky真是一条好狗） |        |      |      |
+| 赫芬顿邮报记者Brent Budowsky自告奋勇去伪装出一种支持桑德斯的立场，这样桑德斯败选后，更有利于他去说服桑德斯支持者出来投希拉里的票 （再次证明Brent Budowsky是忠犬一条）。 |        |      |      |
+| 在这封波德斯塔给华盛顿说客Steve Elmendorf的邮件中，波德斯塔写道，“没想到wet works指的是葡萄园的泳池派对。”当天晚上Elmendorf回信称，“我已经全身心投入了。这听上去将会是一个糟糕的夜晚，我们都需要准备随时行动。这封邮件发送的时间是在2016年2月9日，三天后大法官斯卡利亚突然身亡。而去世的前一天晚上，他还在德克萨斯州捕猎鹌鹑并在Cibolo Creek Ranch酒店和客人一起用餐。引起外界注意的是，邮件中提到的“wet works”是一个情报术语，指公众人物、外交家或者政治人物的暗杀。而斯卡利亚当晚宴请宾客的酒店就恰好有一个葡萄园和泳池。另外一封邮件显示，在斯卡利亚死亡后不到一天的时间，波德斯塔在邮件中与乔治•索罗斯的亲信讨论斯卡利亚的接替者。 |        | 暗杀事件 |      |
+|                                          |        |      |      |
+|                                          |        |      |      |
+|                                          |        |      |      |
+|                                          |        |      |      |
 
 ![image](./imgs/podesta_graph.jpg)
 
@@ -99,32 +138,13 @@ Podesta先生还与其兄弟Tony拥有Podesta集团
 |         | John Ashe        | 联合国大会前主席              | 2016年6月22日 |                                         |
 |         | Guccifer         | 罗马尼亚黑客                |            | 侵入克林顿私人电子邮箱服务器，引爆邮件门而被判刑，在弗吉尼亚监狱服刑时死于狱中 |
 
-[美媒：神秘死亡的美民主党员或是“邮件门”泄密者](http://news.xinhuanet.com/world/2016-08/11/c_129220675.htm)
-[希拉里邮件门爆料人被暗杀，6星期内5位希拉里黑幕知情者离奇死亡--美国政治之恐怖远超你想象](http://www.cwzg.cn/html/2016/guanfengchasu_0810/30107.html)
+[美媒：神秘死亡的美民主党员或是“邮件门”泄密者](http://news.xinhuanet.com/world/2016-08/11/c_129220675.htm)<br>
+[希拉里邮件门爆料人被暗杀，6星期内5位希拉里黑幕知情者离奇死亡--美国政治之恐怖远超你想象](http://www.cwzg.cn/html/2016/guanfengchasu_0810/30107.html)<br>
 
-[如何看待2016年10月14日最新维基解密，美国最高法院已故大法官斯卡利亚死因疑似为遭谋杀？](https://www.zhihu.com/question/51576593?rf=51560744)
-[希拉里谋杀Scalia跟进：另一封邮件是交易合同](https://zhuanlan.zhihu.com/p/22987931)
+[如何看待2016年10月14日最新维基解密，美国最高法院已故大法官斯卡利亚死因疑似为遭谋杀？](https://www.zhihu.com/question/51576593?rf=51560744)<br>
+[希拉里谋杀Scalia跟进：另一封邮件是交易合同](https://zhuanlan.zhihu.com/p/22987931)<br>
 
-[年度悬疑——希拉里团队真的谋杀了大法官？](http://posts.careerengine.us/p/580da1a4e51c464b93405ea0)
-
-
-
-
-### 希拉里邮件片段
-
-　　“收钱”希拉里团队的几乎所有高层讨论是否接受外国政府掮客的政治献金（这是违反联邦竞选法律的）。最后伴随着Jen Palmeri的一句“收钱”，希拉里团队决定接受代表外国政府势力的政治献金。
-
-　　希拉里疑似在参加2015年12月的初选辩论之前就拿到主持人将问的所有问题。
-
-　　赫芬顿邮报记者Brent Budowsky写信给Podesta为自己的文章"The Magic of Bill Clinton"邀功。Podesta的回复只是一个字"Yep"（Brent Budowsky真是一条好狗）。
-
-　　赫芬顿邮报记者Brent Budowsky自告奋勇去伪装出一种支持桑德斯的立场，这样桑德斯败选后，更有利于他去说服桑德斯支持者出来投希拉里的票 （再次证明Brent Budowsky是忠犬一条）。
-
-　　Podesta跟CTR沟通选战事宜（违反FECA）。
-
-　　Podesta收到HWJ Foundation（致力于医保改革）支付的顾问报酬。（Conflict of interests）
-
-　　讨论怎么控制左派新闻媒体的言论。
+[年度悬疑——希拉里团队真的谋杀了大法官？](http://posts.careerengine.us/p/580da1a4e51c464b93405ea0)<br>
 
 　　希拉里团队担心桑德斯支持者和年轻女性党员太憎恶希拉里以至于可能会投票给共和党。同时信中的讨论表明希拉里在初选时从建制派得到的支持可能远比想象中小。
 
@@ -143,15 +163,7 @@ Podesta先生还与其兄弟Tony拥有Podesta集团
 　　希拉里团队抱怨希拉里经常在公开场合说假话。
 
 　　打算攻击桑德斯写荤段子。
-　　希拉里团队讨论私服上邮件的危险性。最后发现希拉里将含有机密信息的邮件提供给了以下人士： Combetta, Pagliano, all of her lawyers, all of Platte River Network maybe a few janitors。
 
-　　希拉里夫妻反对同性婚姻，表面上的支持只是为了选举的伪装。
-
-　　希拉里团队担心纽时曝光他们和PAC的会面（违反选举法）。纽时最后理所当然地没有报道这件事。
-
-　　希拉里团队讨论销毁邮件。
-
-　　希拉里厌恶日常美国人。
 
 　　雅虎记者Katie Couric为希拉里写枪文。
 
@@ -191,13 +203,7 @@ Podesta先生还与其兄弟Tony拥有Podesta集团
 
 　　Podesta会见SuperPAC（违反选举法）。
 
-　　疑似讨论暗杀大法官斯科拉的计划。
-
 　　希拉里团队的高级官员John Halpin和Jennifer Palmieri嘲笑天主教和福音教的信徒。还进一步攻击默多克在约旦河（耶稣基督在这条河里受洗）给儿子受洗是件多么悖时落后的行为。
 　　
-　　
-#### Podesta邮件片段
+　
 
-在这封波德斯塔给华盛顿说客Steve Elmendorf的邮件中，波德斯塔写道，“没想到wet works指的是葡萄园的泳池派对。”当天晚上Elmendorf回信称，“我已经全身心投入了。这听上去将会是一个糟糕的夜晚，我们都需要准备随时行动。这封邮件发送的时间是在2016年2月9日，三天后大法官斯卡利亚突然身亡。而去世的前一天晚上，他还在德克萨斯州捕猎鹌鹑并在Cibolo Creek Ranch酒店和客人一起用餐。
-引起外界注意的是，邮件中提到的“wet works”是一个情报术语，指公众人物、外交家或者政治人物的暗杀。而斯卡利亚当晚宴请宾客的酒店就恰好有一个葡萄园和泳池。
-另外一封邮件显示，在斯卡利亚死亡后不到一天的时间，波德斯塔在邮件中与乔治•索罗斯的亲信讨论斯卡利亚的接替者。
