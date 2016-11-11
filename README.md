@@ -19,7 +19,6 @@
 ## [希拉里邮件网络探索](http://www.hotu.co/hillary/)
 ![image](./imgs/website.jpg)
 
-
 ----
 
 
@@ -102,14 +101,15 @@ Podesta先生还与其兄弟Tony拥有Podesta集团
 美国东部时间7月22日，美国维基解密网站公布了美国民主党国家委员会（DNC）内部的19252封绝密邮件和8034个附件。部分邮件信息显示了希拉里暗中勾结民主党高层打击同党竞选人伯尼·桑德斯，丑化其形象，并内定了党内候选人，参加洗钱等丑闻，导致民主党全国委员会主席舒尔茨辞职
 
 #### 涉及人物
-通讯总监 Luis Miranda（10770封)<br>
-国家财政总监 Jordon Kaplan（3797封）<br>
-财务总监 Scott Comer（3095封）<br>
-金融数据与战略总监 Daniel Parrish（1472封）<br>
-财务总监 Allen Zachary（1611封）<br>
-高级顾问 Andrew Wright（938封）<br>
-北加州财务总监 Robert（Erik）Stowe（751封）<br>
-
+| 职务        | 姓名                | 数量    | 邮箱               |
+| :-------- | ----------------- | ----- | ---------------- |
+| 通讯总监      | Luis Miranda      | 10770 | MirandaL@dnc.org |
+| 国家财政总监    | Jordon Kaplan     | 3797  | kaplanj@dnc.org|
+| 财务总监      | Scott Comer       | 3095  | ComerS@dnc.org   |
+| 金融数据与战略总监 | Daniel Parrish    | 1472  | ParrishD@dnc.org |
+| 财务总监      | Allen Zachary     | 1611  | allenz@dnc.org|
+| 高级顾问      | Andrew Wright     | 938   | wrighta@dnc.org |
+| 北加州财务总监   | Robert（Erik）Stowe | 751   |     stowee@dnc.org |
 
 ### 相关讨论
 

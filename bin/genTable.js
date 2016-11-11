@@ -1,4 +1,4 @@
-const getSQL = require('./sql')
+const getSQL = require('./sql').table
 const Sequelize = require('sequelize')
 
 let dbcfg = require('./dbconfig1')

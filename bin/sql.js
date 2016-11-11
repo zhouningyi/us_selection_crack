@@ -1,4 +1,6 @@
-module.exports = (o) => {
+
+
+const table = (o) => {
   const tbname  =     o.name
   const allTb   =     tbname + '_alltbs'
   const countTb =     tbname + '_email_count'
@@ -39,7 +41,7 @@ CREATE SCHEMA IF NOT EXISTS analysis;
 --建立所有的邮件表
 DROP TABLE IF EXISTS analysis.${allTb};
 CREATE TABLE analysis.${allTb} AS (
-  SELECT "from", unnest("to") AS "to", "content" 
+  SELECT lower("from") AS "from", lower(unnest("to")) AS "to", "content" 
   FROM ${tbname}
 );
 
@@ -71,3 +73,26 @@ ON CONFLICT(email) DO UPDATE
 SET to_count = excluded.to_count;
 ` + siteAnalyze
 }
+
+const nodesJson = (o) => {
+  const countTb =     o.name + '_email_count'
+  return `
+    SELECT (from_count + to_count) AS "value", email AS id, from_count, to_count, site
+    FROM analysis.${countTb}
+    ORDER BY "value" DESC;
+  `
+}
+
+
+const linksJson = (o) => {
+  const allTb   =     o.name + '_alltbs'
+  return `
+    SELECT "from" AS "source", "to" AS "target", count(1) AS "value" 
+    FROM analysis.${allTb}
+    WHERE char_length("from") < 35
+    AND char_length("to") < 35
+    GROUP BY source, target;
+  `
+}
+
+module.exports = {table, nodesJson, linksJson}
