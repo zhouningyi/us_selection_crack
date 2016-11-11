@@ -16,7 +16,7 @@
 | :--- | --------- | ---- | ------- | ------ |
 | 发件人  | 收件人(可能多个) | 发信时间 | 邮件内容    | id     |
 
-## [希拉里邮件网络探索](http://www.hotu.co/hillary/)
+## [基于这份数据的作品: 希拉里邮件网络探索 ->](http://www.hotu.co/hillary/)
 ![image](./imgs/website.jpg)
 
 ----
@@ -104,12 +104,12 @@ Podesta先生还与其兄弟Tony拥有Podesta集团
 | 职务        | 姓名                | 数量    | 邮箱               |
 | :-------- | ----------------- | ----- | ---------------- |
 | 通讯总监      | Luis Miranda      | 10770 | MirandaL@dnc.org |
-| 国家财政总监    | Jordon Kaplan     | 3797  | kaplanj@dnc.org|
+| 国家财政总监    | Jordon Kaplan     | 3797  | kaplanj@dnc.org  |
 | 财务总监      | Scott Comer       | 3095  | ComerS@dnc.org   |
 | 金融数据与战略总监 | Daniel Parrish    | 1472  | ParrishD@dnc.org |
-| 财务总监      | Allen Zachary     | 1611  | allenz@dnc.org|
-| 高级顾问      | Andrew Wright     | 938   | wrighta@dnc.org |
-| 北加州财务总监   | Robert（Erik）Stowe | 751   |     stowee@dnc.org |
+| 财务总监      | Allen Zachary     | 1611  | allenz@dnc.org   |
+| 高级顾问      | Andrew Wright     | 938   | wrighta@dnc.org  |
+| 北加州财务总监   | Robert（Erik）Stowe | 751   | stowee@dnc.org   |
 
 ### 相关讨论
 
